@@ -1,0 +1,9 @@
+[logger]
+level = "error"
+
+[server]
+runOnSave = false
+
+[browser]
+gatherUsageStats = false
+serverAddress = "to-be-decided-later.com"

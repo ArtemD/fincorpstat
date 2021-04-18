@@ -1,0 +1,8 @@
+[logger]
+level = "info"
+
+[server]
+runOnSave = true
+
+[browser]
+gatherUsageStats = false
