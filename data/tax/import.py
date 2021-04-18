@@ -4,7 +4,7 @@ import sqlite3
 import csv
 load_dotenv()
 
-con = sqlite3.connect('../../data.sqlite')
+con = sqlite3.connect('../../db.sqlite')
 
 files = glob.glob("*.csv")
 
