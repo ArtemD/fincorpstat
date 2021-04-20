@@ -133,3 +133,7 @@ dmypy.json
 
 # DB
 *.sqlite
+
+# Notes
+
+NOTES.txt

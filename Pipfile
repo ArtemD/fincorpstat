@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 streamlit = "*"
 python-dotenv = "*"
+sqlalchemy = "*"
+ipython = "*"
+psycopg2 = "*"
 
 [dev-packages]
 
