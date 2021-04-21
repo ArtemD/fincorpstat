@@ -9,6 +9,7 @@ python-dotenv = "*"
 sqlalchemy = "*"
 ipython = "*"
 psycopg2 = "*"
+requests = "*"
 
 [dev-packages]
 
